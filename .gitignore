@@ -1,0 +1,14 @@
+# Secrets
+appsettings.Development.json
+appsettings.*.local.json
+
+# Build results
+bin/
+obj/
+.vs/
+
+# SonarQube
+.sonarqube/
+
+# IDE
+.vscode/
